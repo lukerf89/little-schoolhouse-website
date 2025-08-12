@@ -183,6 +183,12 @@ nav .container {
   fill: var(--red);
 }
 
+.logo-img {
+  width: 50px;
+  height: auto;
+  vertical-align: middle;
+}
+
 .nav-menu {
   display: flex;
   list-style: none;
